@@ -1,6 +1,5 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Remove Credit @VJ_Botz
+# Subscribe # Ask Doubt on telegram @Kiru0012
 
 
 import re
